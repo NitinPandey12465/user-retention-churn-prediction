@@ -31,7 +31,7 @@ A telecom company is losing **26.5% of its customers annually** — costing sign
 ## Project Architecture
 
 
-
+https://huggingface.co/spaces/NitinPandey2632/churn-risk-predictor
 
 
 ---
