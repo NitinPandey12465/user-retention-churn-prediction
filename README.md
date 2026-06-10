@@ -1,6 +1,7 @@
 # user-retention-churn-prediction
-https://huggingface.co/spaces/NitinPandey2632/churn-risk-predictor
+
 End-to-end churn prediction — SQL, Python, SHAP, Kaplan-Meier survival analysis, Power BI dashboard
+https://huggingface.co/spaces/NitinPandey2632/churn-risk-predictor
 # User Retention & Churn Prediction Engine
 ### Telco Customer Churn Analysis | End-to-End Data Analytics Project
 
